@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <center><img src="swetha v.jpg" alt=""></center>
+
+    <center>
+        <h3>swetha v</h3>
+    </center>
+
+<div> <h3><u>ABOUT ME: </u> </h3>
+    <P>Passionate and detail-oriented Full Stack Developer skilled in designing, developing, and deploying dynamic web
+        applications. Proficient in both front-end and back-end technologies, with strong knowledge of databases, APIs,
+        and version control systems. Dedicated to writing clean, efficient, and scalable code to create seamless digital
+        experiences.</P>
+
+    <a href="project.html"> projects</a>
+    &nbsp;&nbsp;
+    <a href="contact.html">contact info</a>
+    <br>
+    <br></div>
+   
+      <div class="skill-section">
+        <h3>SKILLS</h3>
+        <div class="inner-skills">
+            <p>HTML</p>
+            <p>CSS</p>
+            <p>JAVASCRIPT</p>
+            <p>REACT JS</p>
+            <p>EXPRESS JS</p>
+            <p>NODE JS</p>
+            <p>MONGO DB</p>
+            <p>PYTHON(Intermediate)</p>
+            <p>JAVA(Intermediate)</p>
+            <p>C & C++ (Basics)</p>
+        </div>
+        <h2>EDUCATION DETAILS </h2>
+<BR></BR>
+    <table border="2px">
+        <tr>
+            <th>sno</th>
+            <th>SSLC</th>
+            <th>HSC</th>
+            <th>UG</th>
+        </tr>
+
+        <tr>
+            <td>percentage</td>
+            <td>67.8</td>
+            <td>79.2</td>
+            <td>81</td>
+        </tr>
+        <tr>
+            <td>year of passing </td>
+            <td>2019</td>
+            <td>2021</td>
+            <td>2025</td>
+        </tr>
+
+         <tr>
+            <td>institute</td>
+            <td>clarence matric .hr.school</td>
+            <td>clarence matric .hr.school</td>
+            <td>kings engineering college</td>
+        </tr>
+
+    </table>
+    <style>
+        img{
+            width: 70px;
+            height: 90px;
+        }
+       
+        body {
+            background-color: rgb(158, 155, 163);
+        }
+
+        .about-me {
+            border: 2px solid rgb(219, 138, 138);
+            border-radius: 10px;
+            margin: 30px;
+            padding: 20px;
+            text-align: justify;
+            background-color: rgb(168, 177, 185);
+        }
+
+        .skill-section {
+                   border: 2px solid rgb(196, 193, 193);
+            border-radius: 10px;
+            margin: 30px;
+            padding: 20px;
+            background-color: aliceblue;
+
+        }
+
+        .inner-skills p {
+            margin: 50px;
+        }
+     table {
+            margin: 20px;
+            border-collapse: collapse;
+            text-align: center;
+            padding: 30px;
+            border: 2px solid rgb(96, 88, 88);
+            border-radius: 12px;
+        }
+
+        th,
+        td {
+            background-color: rgb(223, 211, 192);
+            padding: 15px;
+        }
+
+        .education-section {
+            border: 2px solid rgb(139, 138, 138);
+            border-radius: 10px;
+            padding: 20px;
+            margin: 30px;
+            background-color: aliceblue;
+        }
+
+        button {
+            background-color: rgb(67, 67, 56);
+            color: antiquewhite;
+            border: none;
+            padding: 15px;
+            border-radius: 7px;
+        }
+
+    </style>
+</body>
+
+</html>

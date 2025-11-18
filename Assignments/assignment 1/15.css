@@ -1,0 +1,33 @@
+.sw {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(107, 37, 37);
+    border: 2px rgb(17, 17, 17);
+
+}
+
+.swe {
+    position: relative;
+    top: 20px;
+    right: 30px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(202, 159, 159);
+}
+
+.swet {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(243, 13, 13);
+    bottom: 50px;
+    right: 10px;
+}
+.swetha {
+    position:fixed;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(155, 116, 116);
+}
+
+

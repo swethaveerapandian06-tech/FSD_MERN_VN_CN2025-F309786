@@ -1,0 +1,10 @@
+.external{
+    color: blue;
+    margin-right: 15px;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: blueviolet;
+}
